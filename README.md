@@ -6,5 +6,5 @@
 2) The sigspatial2020_processed_TINs.zip contains the processed dataset from the paper: Close Weighted Shortest Paths on 3D Terrain Surfaces, SIGSPATIAL/GIS 2020. The origional datasets are not .off format and we processed the original data to .off format. These datasets are relative small with about 4000 faces for each.
 3) These terrain surfaces does not contain the face weight information and please refer to our code for face weight generation part.
 
-### We will opensource the code of LQT-Oracle later.
+### The code of LQT-Oracle is in https://github.com/ItakEjgo/weighted_distance_oracle. We will opensource the code of LQT-Oracle later.
 
